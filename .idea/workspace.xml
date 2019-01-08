@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a03b8789-d009-46e3-9e0e-5a5f5880a4a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prac_04/sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/car_simulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_08/taxi_simulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_08/trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_08/trees_tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_09/cleanup_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_09/os_demos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_09/sort_files_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_09/sort_files_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_10/recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_10/testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,15 +80,16 @@
     <session id="1741986404">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -103,14 +97,14 @@
           <entry key="csv" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="kv" value="18" />
-          <entry key="py" value="164" />
+          <entry key="py" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSV" value="2" />
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="164" />
+          <entry key="Python" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -140,86 +134,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_09/sort_files_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_09/sort_files_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_09/os_demos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_08/trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_08/trees_tester.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_08/taxi_simulator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding>
-                <element signature="e#68#95#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_06/car_simulator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac_04/sorting.py">
+        <entry file="file://$PROJECT_DIR$/prac_10/recursion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            <state relative-caret-position="15">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -241,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prac_01/debugging.py" />
-        <option value="$PROJECT_DIR$/prac_03/functions.py" />
         <option value="$PROJECT_DIR$/prac_03/__init__.py" />
         <option value="$PROJECT_DIR$/prac_03/function.py" />
         <option value="$PROJECT_DIR$/prac_01/broken_score.py" />
@@ -292,6 +209,8 @@
         <option value="$PROJECT_DIR$/prac_08/taxi_simulator.py" />
         <option value="$PROJECT_DIR$/prac_06/car_simulator.py" />
         <option value="$PROJECT_DIR$/prac_04/sorting.py" />
+        <option value="$PROJECT_DIR$/prac_10/recursion.py" />
+        <option value="$PROJECT_DIR$/prac_10/testing.py" />
       </list>
     </option>
   </component>
@@ -302,8 +221,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="141" />
     <option name="y" value="22" />
-    <option name="width" value="675" />
+    <option name="width" value="1001" />
     <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -318,6 +238,11 @@
             <path>
               <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP1404Practicals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP1404Practicals" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -613,13 +538,20 @@
       <option name="project" value="LOCAL" />
       <updated>1546072858121</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="initial commit">
+      <created>1546798408908</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1546798408908</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="675" height="731" extended-state="0" />
+    <frame x="141" y="22" width="675" height="731" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3270142" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36966825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -633,8 +565,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.31768388" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5016155" side_tool="true" weight="0.32739726" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286385" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286385" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -655,16 +587,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_07/dynamic_widgets.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_07/guitars_app.kv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/guitars_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -725,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-94">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#221#245#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,19 +664,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="e#162#186#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/simple_animation_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-244" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/size_and_position_demo.py">
@@ -784,21 +696,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/falling_drawing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/dynamic_widgets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-443">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#156#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,21 +713,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/clock_demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/clock_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#184#208#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,30 +738,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/basic_graphics_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_07/anchor_layout_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_08/unreliable_car.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#1#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,9 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#713#1190#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,9 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,21 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_09/os_demos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_09/sort_files_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
@@ -972,9 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#68#95#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,6 +845,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/os_demos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/sort_files_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_10/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_10/recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
